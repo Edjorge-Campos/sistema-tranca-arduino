@@ -1,17 +1,5 @@
 
 
-https://github.com/user-attachments/assets/d1ab5744-26c6-40c4-84d4-1f7aa9839bee
-
-
-
-https://github.com/user-attachments/assets/127e5fa9-7724-44f6-8909-cab85186c3b0
-
-
-
-https://github.com/user-attachments/assets/b8f07c9a-1dd3-42e3-aa41-c9eb375292c1
-
-
-
 # Tranca com Password — Arduino Uno
 
 Sistema de segurança físico desenvolvido com Arduino Uno que controla uma tranca mediante a introdução de uma password num teclado 4x4.
@@ -20,7 +8,9 @@ Este é o meu primeiro projeto pessoal. Sou o Edjorge Campos, tenho 18 anos e es
 
 # Demonstração
 
-<!-- Adiciona aqui o vídeo do  projeto a funcionar -->
+https://github.com/user-attachments/assets/6a3d8616-ff55-49cb-81eb-9f4bdffab556
+
+
 
 # Como funciona
 
