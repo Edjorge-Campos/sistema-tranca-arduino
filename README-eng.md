@@ -1,3 +1,7 @@
+
+
+
+
 # Password Lock System — Arduino Uno
 
 A physical security system developed with an Arduino Uno that controls a lock based on a password entered through a 4x4 keypad.
@@ -8,7 +12,7 @@ This is my first personal project. I am Edjorge Campos, an 18-year-old first-yea
 
 ## Demonstration
 
----
+https://github.com/user-attachments/assets/146f1d1e-6a7a-423a-a969-5d139b49fc25
 
 ## How it works
 
@@ -48,7 +52,8 @@ The system starts with the lock closed and the LCD displaying "Tranca fechada". 
 
 ## Wiring Diagram
 
-![Wiring diagram](esquema.png)
+<img width="1536" height="694" alt="CircuitDesign" src="https://github.com/user-attachments/assets/d735fffe-2514-4281-938c-4568bef11c8a" />
+
 
 ---
 
