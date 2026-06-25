@@ -12,7 +12,10 @@ This is my first personal project. I am Edjorge Campos, an 18-year-old first-yea
 
 ## Demonstration
 
-https://github.com/user-attachments/assets/146f1d1e-6a7a-423a-a969-5d139b49fc25
+
+https://github.com/user-attachments/assets/607e6944-e7bc-4e09-baba-fc73e3219c2e
+
+
 
 ## How it works
 
