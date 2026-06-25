@@ -51,7 +51,8 @@ O sistema arranca com a tranca fechada e o LCD a mostrar "Tranca fechada". O uti
 
 # Esquema de Ligações
 
-"https://github.com/user-attachments/assets/a1faf800-966f-4444-a261-c0c689bf3975" 
+<img width="1536" height="694" alt="CircuitDesign" src="https://github.com/user-attachments/assets/939b60f6-c60d-4314-94ac-25b83642b3f0" />
+
 
 # Código
 
