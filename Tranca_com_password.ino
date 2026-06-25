@@ -2,12 +2,12 @@
 #include <Servo.h>
 #include <LiquidCrystal.h>
 
- static const int ledVermelho = 12;
- static const int ledVerde = 11;
+ static const int ledVermelho = 12; //led para password errada vai para o pino 12
+ static const int ledVerde = 11;  //led para password certa vai para o pino 11
  Servo motorFisico;
  LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
 
- static const char password[4] = {'1', '2', '3', '4'};
+ static const char password[4] = {'1', '2', '3', '4'};  //para alterar a password, basta alterar este array
  static char inputUser[4];
  static int tamanhoPI = 0;
 
@@ -24,7 +24,7 @@
 
 
 
-void funcionamentoMotor(){
+void funcionamentoMotor(){   //abre a tranca acende o led verde e volta a fechar depois de 2s
   lcd.clear();
   lcd.setCursor(0, 0);
   lcd.print("Tranca aberta");
@@ -39,7 +39,7 @@ void funcionamentoMotor(){
   lcd.print("Tranca fechada");
 }
 
-void escreverEcra(const char msg[]){
+void escreverEcra(const char msg[]){    // mostra a mensagem desejada no lcd(ecrã) e depois de 2s volta a dizer "Tranca fechada"
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print(msg);
@@ -65,7 +65,7 @@ void setup(){
   lcd.print("Tranca fechada");
 }
 
-void reiniciarInput(){
+void reiniciarInput(){   //reinicia o input do User ao apagar os caracteres previamente introduzidos
   tamanhoPI = 0;
       for(int j = 0; j < 4; j++){
         inputUser[j] = '-';
