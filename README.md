@@ -4,6 +4,10 @@ Sistema de segurança físico desenvolvido com Arduino Uno que controla uma tran
 
 Este é o meu primeiro projeto pessoal. Sou o Edjorge Campos, tenho 18 anos e estou no 1º ano de Engenharia Informática no ISCTE. Tenho interesse no desenvolvimento de sistemas funcionais, tanto digitais como embebidos, e este projeto surgiu depois da cadeira de arquitetura de computadores que suscitou vontade de construir algo físico e real desde cedo no curso.
 
+# Demonstração
+
+<!-- Adiciona aqui o vídeo do  projeto a funcionar -->
+
 # Como funciona
 
 O sistema arranca com a tranca fechada e o LCD a mostrar "Tranca fechada". O utilizador digita uma password de 4 dígitos no teclado, com cada tecla a aparecer como asterisco no ecrã. Ao premir `#`, o sistema verifica a password:
