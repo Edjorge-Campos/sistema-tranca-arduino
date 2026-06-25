@@ -48,7 +48,7 @@ void escreverEcra(const char msg[]){    // mostra a mensagem desejada no lcd(ecr
   lcd.print("Tranca fechada");
 }
 
-void ligarLed(int led){
+void ligarLed(int led){  // acende o led indicado durante 2s e apaga
   digitalWrite(led, HIGH);
   delay(2000);
   digitalWrite(led, LOW);
