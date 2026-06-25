@@ -1,3 +1,5 @@
+
+
 # Tranca com Password — Arduino Uno
 
 Sistema de segurança físico desenvolvido com Arduino Uno que controla uma tranca mediante a introdução de uma password num teclado 4x4.
@@ -37,6 +39,11 @@ O sistema arranca com a tranca fechada e o LCD a mostrar "Tranca fechada". O uti
  - LED verde : 11 
  - LED vermelho : 12 
  - LCD (RS, E, D4, D5, D6, D7) : A0, A1, A2, A3, A4, A5 
+
+# Esquema de Ligações
+
+![Esquema de ligações](esquema.png)<img width="1536" height="694" alt="CircuitDesign" src="https://github.com/user-attachments/assets/a1faf800-966f-4444-a261-c0c689bf3975" />
+
 
 # Bibliotecas utilizadas
 
