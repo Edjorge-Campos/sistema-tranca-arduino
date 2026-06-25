@@ -14,25 +14,25 @@ O sistema arranca com a tranca fechada e o LCD a mostrar "Tranca fechada". O uti
 
 # Componentes
 
- Arduino Uno - 1 
- Teclado matricial 4x4 - 1
- LCD 16x2 - 1 
- Potenciómetro (brilho do LCD) - 1 
- Servo motor - 1 
- LED verde - 1 
- LED vermelho - 1 
- Resistências 220Ω - 2 
- Breadboard - 1 
- Fios de ligação 
+- 1x Arduino Uno 
+- 1x Teclado matricial 4x4 
+- 1x LCD 16x2  
+- 1x Potenciómetro (brilho do LCD) 
+- 1x Servo motor  
+- 1x LED verde  
+- 1x LED vermelho  
+- 2x Resistências 220Ω 
+- 1x Breadboard 
+- Fios de ligação 
 
 # Ligações/Pinout
 
- Teclado — Linhas { 2, 3, 4, 5 }
- Teclado — Colunas { 6, 7, 8, 9 }
- Servo motor - 10 
- LED verde - 11 
- LED vermelho - 12 
- LCD (RS, E, D4, D5, D6, D7) - A0, A1, A2, A3, A4, A5 
+ - Teclado : Linhas { 2, 3, 4, 5 }
+ - Teclado : Colunas { 6, 7, 8, 9 }
+ - Servo motor : 10 
+ - LED verde : 11 
+ - LED vermelho : 12 
+ - LCD (RS, E, D4, D5, D6, D7) : A0, A1, A2, A3, A4, A5 
 
 # Bibliotecas utilizadas
 
