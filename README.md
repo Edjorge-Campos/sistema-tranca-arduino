@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/b8f07c9a-1dd3-42e3-aa41-c9eb375292c1
+
+
+
 # Tranca com Password — Arduino Uno
 
 Sistema de segurança físico desenvolvido com Arduino Uno que controla uma tranca mediante a introdução de uma password num teclado 4x4.
