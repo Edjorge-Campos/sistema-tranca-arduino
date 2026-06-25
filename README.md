@@ -10,7 +10,10 @@ Este é o meu primeiro projeto pessoal. Sou o Edjorge Campos, tenho 18 anos e es
 
 
 
-https://github.com/user-attachments/assets/5d88dbe8-56db-4f43-abfa-5b4a02149181
+
+https://github.com/user-attachments/assets/6dacf722-9de6-4682-9b2e-c433ee5e3678
+
+
 
 
 
