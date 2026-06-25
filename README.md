@@ -4,7 +4,7 @@
 
 Sistema de segurança físico desenvolvido com Arduino Uno que controla uma tranca mediante a introdução de uma password num teclado 4x4.
 
-Este é o meu primeiro projeto pessoal. Sou o Edjorge Campos, tenho 18 anos e estou no 1º ano de Engenharia Informática no ISCTE. Tenho interesse no desenvolvimento de sistemas funcionais, tanto digitais como embebidos, e este projeto surgiu depois da cadeira de arquitetura de computadores que suscitou vontade de construir algo físico e real desde cedo no curso.
+Este é o meu primeiro projeto pessoal. Sou o Edjorge Campos, tenho 18 anos e estou no 1º ano de Engenharia Informática no ISCTE. Tenho interesse no desenvolvimento de sistemas funcionais, tanto digitais como embebidos, e este projeto surgiu depois da cadeira de arquitetura de computadores que suscitou vontade de construir algo físico e real desde cedo no curso. 
 
 # Demonstração
 
